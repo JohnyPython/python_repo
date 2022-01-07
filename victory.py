@@ -22,6 +22,7 @@
 
 import random
 
+
 while True:
     famous_peoples = {'Ilon Mask': '28.06.1971', 'Sergei Brin': '21.08.1973', 'Jack Ma': '10.09.1964',
                       'Bruce Lee': '20.07.1940', 'Guido van Rossum': '31.01.1956', 'Magnus Carlsen': '30.11.1990',
